@@ -1,7 +1,7 @@
 # 💫 About Me:
 Mohammad Hesam Kazemi is a B.Sc. student in Computer Science (Software Engineering) at Islamic Azad University, Tehran. He has over two years of full-stack experience, including freelancing for international clients (e.g. Fiverr) and currently works as Backend Developer and Project Manager at ArnitEx (crypto exchange). He uses React, Vue, TypeScript on the front end and Node.js, NestJS, Django, and Flask on the back end, and has experience in network security and teaching Node.js/Express. He has C1 English and is familiar with Microsoft Office. Passionate about programming since childhood, he is committed to delivering reliable results.
 
-[![Click to view my resume]](https://hessikz.github.io/My-Resume)
+[Click to view my resume](https://hessikz.github.io/My-Resume)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hessi.kz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Hessi-kzm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hessi.kz@gmail.com) 
